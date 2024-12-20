@@ -1,3 +1,5 @@
+# Slugify
+
 <?php
 require 'vendor/autoload.php';
 
