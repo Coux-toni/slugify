@@ -1,5 +1,5 @@
 # Slugify
-
+```php
 <?php
 require 'vendor/autoload.php';
 
@@ -15,4 +15,4 @@ echo $slugify->slugify("Heute ist ein schöner Tag") . "<br>"; // hey
 
 $url = new \Agovo\Slugify\MyUrl();
 echo $url->slugify("//https.www.example.org", "Das ist ein langer Text");
-
+```
