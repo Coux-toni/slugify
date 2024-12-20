@@ -1,0 +1,14 @@
+{
+    "name": "agovo/slugify",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Agovo\\Slugify\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "cocur/slugify": "~v4.4"
+    }
+}
